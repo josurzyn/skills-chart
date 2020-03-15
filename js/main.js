@@ -59,6 +59,9 @@ const skills = [
   }, {
     name: "Adobe Photoshop",
     rating: "7"
+  }, {
+    name: "WebP",
+    rating: "5"
   }
 ]
 
