@@ -1,4 +1,4 @@
-#Welcome to Jo's Web Dev Skills#
+# Welcome to Jo's Web Dev Skills #
 
 A little chart to keep track of my coding skills and progress.
 
